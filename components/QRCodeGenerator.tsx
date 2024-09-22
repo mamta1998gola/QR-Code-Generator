@@ -21,7 +21,7 @@ const QRCodeGenerator = () => {
   return (
     <Card className="w-full max-w-md mx-auto">
       <CardHeader>
-        <CardTitle>QR Code Generator</CardTitle>
+        <CardTitle className="text-center">QR Code Generator</CardTitle>
       </CardHeader>
       <CardContent>
         <div className="space-y-4">
